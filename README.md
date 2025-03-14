@@ -8,10 +8,10 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 - Lunes 9:30hs a 11:30hs M15
 - Miércoles 14:30hs a 16:30hs M16
 
-* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y pueden ser interactivos gracias a [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cuanticalp/seminario/master
-)
+* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/Practica1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-también las pueden correr en [Colab](https://colab.research.google.com/)
 
 * En la carpeta [Mathematica](/Mathematica) hay notebooks realizadas con el Software Mathematica de Wolfram.
 
