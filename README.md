@@ -8,7 +8,7 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 - Lunes 9:30hs a 11:30hs M15
 - Miércoles 14:30hs a 16:30hs M16
 
-* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/Practica1.ipynb">
+* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en Colab: <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/Practica1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -27,12 +27,10 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 
 - [Matemática C (Álgebra Lineal y números complejos)](https://www1.ing.unlp.edu.ar/catedras/F0304/)
 
-- [Teach Me Quantum](https://github.com/msramalho/Teach-Me-Quantum)
-
-- [Linear Algebra for Quantum Computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing)
-
-- [Quantum Machine Learning](https://github.com/qosf/qml-mooc)
-
 - [Quantum Information Basel](https://github.com/quantumjim/Quantum-information-course-Basel)
 
-- [Problemas resueltos del Nielsen](https://github.com/goropikari/SolutionQCQINielsenChuang)
+- [Quantum Country](https://quantum.country/)
+  
+- [Qubit Guide](https://qubit.guide)
+
+- [Problemas resueltos del Nielsen](https://rainij.github.io/solutions-qcqi-nielsen-chuang/)
