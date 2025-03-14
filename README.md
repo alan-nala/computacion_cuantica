@@ -8,7 +8,7 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 - Lunes 9:30hs a 11:30hs M15
 - Miércoles 14:30hs a 16:30hs M16
 
-* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en Colab: <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/Practica1.ipynb">
+* Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en Colab: <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
