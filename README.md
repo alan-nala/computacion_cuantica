@@ -1,4 +1,4 @@
-![quantum](/img/quantum.jpg)
+![quantum](/img/quantum2.jpg)
 # Introducción a la Arquitectura de Computadoras Cuánticas (E1307)
 
 Este el repository del curso de computación cuántica de la Facultad de Ingeniería de la Universidad Nacional de La Plata.
