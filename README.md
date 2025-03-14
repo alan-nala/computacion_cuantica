@@ -3,6 +3,11 @@
 
 Este el repository del curso de computación cuántica de la Facultad de Ingeniería de la Universidad Nacional de La Plata.
 
+## Horarios y [Aulas](https://ing.unlp.edu.ar/institucional/plano/)
+
+- Lunes 9:30hs a 11:30hs M15
+- Miércoles 14:30hs a 16:30hs M16
+
 * Los notebooks de Jupyter están en [Jupyter](/Jupyter) y pueden ser interactivos gracias a [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cuanticalp/seminario/master
 )
 
@@ -19,6 +24,9 @@ también las pueden correr en [Colab](https://colab.research.google.com/)
 - [Simple Guide](https://rogerdudler.github.io/git-guide/)
 
 # Material relacionado:
+
+- [Matemática C (Álgebra Lineal y números complejos)](https://www1.ing.unlp.edu.ar/catedras/F0304/)
+
 - [Teach Me Quantum](https://github.com/msramalho/Teach-Me-Quantum)
 
 - [Linear Algebra for Quantum Computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing)
