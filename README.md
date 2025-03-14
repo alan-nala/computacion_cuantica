@@ -12,16 +12,11 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
 * En la carpeta [Mathematica](/Mathematica) hay notebooks realizadas con el Software Mathematica de Wolfram.
 
 * La carpeta [Prácticas](/Prácticas) está destinada a completarse por el material generado entre todos a medida se vaya avanzando con las prácticas.
 
 * La carpeta [Biblio](/Biblio) tiene bibliografía.
-
-# Guía de Github
-
-- [Simple Guide](https://rogerdudler.github.io/git-guide/)
 
 # Material relacionado:
 
@@ -34,3 +29,8 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 - [Qubit Guide](https://qubit.guide)
 
 - [Problemas resueltos del Nielsen](https://rainij.github.io/solutions-qcqi-nielsen-chuang/)
+
+  # Guía de Github
+
+- [Simple Guide](https://rogerdudler.github.io/git-guide/)
+
