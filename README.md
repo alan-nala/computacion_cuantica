@@ -1,7 +1,7 @@
 ![quantum](/img/quantum.jpg)
-# Seminario de Mecánica Cuántica
+# Introducción a la Arquitectura de Computadoras Cuánticas (E1307)
 
-Este el repository del curso de información cuántica de la Universidad Nacional de La Plata.
+Este el repository del curso de computación cuántica de la Facultad de Ingeniería de la Universidad Nacional de La Plata.
 
 * Los notebooks de Jupyter están en [Jupyter](/Jupyter) y pueden ser interactivos gracias a [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cuanticalp/seminario/master
 )
