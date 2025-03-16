@@ -3,6 +3,10 @@
 
 Este el repository del curso de computación cuántica de la Facultad de Ingeniería de la Universidad Nacional de La Plata.
 
+Contacto: alan.boette@fisica.unlp.edu.ar
+
+
+
 ## Horarios y [Aulas](https://ing.unlp.edu.ar/institucional/plano/)
 
 - Lunes 9:30hs a 11:30hs M15 (Departamento de Mecánica)
@@ -21,6 +25,8 @@ Este el repository del curso de computación cuántica de la Facultad de Ingenie
 # Material relacionado:
 
 - [Matemática C (Álgebra Lineal y números complejos)](https://www1.ing.unlp.edu.ar/catedras/F0304/)
+
+- [Quantum Open Source Foundation: Learning Resources](https://www.qosf.org/learn_quantum/)
 
 - [Quantum Information Basel](https://github.com/quantumjim/Quantum-information-course-Basel)
 
