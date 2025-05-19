@@ -5,6 +5,8 @@ Este el repositorio del curso de computación cuántica de la Facultad de Ingeni
 
 Contacto: alan.boette@fisica.unlp.edu.ar
 
+https://discord.gg/zZS9a4xT
+
 
 
 ## Horarios y [Aulas](https://ing.unlp.edu.ar/institucional/plano/)
