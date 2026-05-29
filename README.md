@@ -5,13 +5,13 @@ Este el repositorio del curso de computación cuántica de la Facultad de Ingeni
 
 Contacto: alan.boette@fisica.unlp.edu.ar
 
-https://discord.gg/zZS9a4xT
+https://discord.gg/2B5jK9dfPq
 
 
 
 ## Horarios y [Aulas](https://ing.unlp.edu.ar/institucional/plano/)
 
-- Miércoles 14:30hs a 16:30hs M16 (Departamento de Mecánica) 
+- Miércoles 13:30hs a 15:30hs M16 (Departamento de Mecánica) 
 - Viernes 9:30hs a 11:30hs M16 (Departamento de Mecánica)
 
 * Los notebooks de Jupyter están en [Jupyter](/Jupyter) y se pueden abrir en Colab: <a target="_blank" href="https://colab.research.google.com/github/alan-nala/computacion_cuantica/blob/master/Jupyter/Practica1.ipynb">
